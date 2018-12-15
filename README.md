@@ -1,0 +1,1 @@
+# 25.-Mengubah-bilangan-pecahan-ke-bilangan-bulat
